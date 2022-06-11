@@ -218,11 +218,13 @@ pre {
 }
 
 .social-media-list {
+  li {
+    display: inline-block;
+  }
   li + li {
     padding-top: 5px;
   }
 }
-
 
 
 /**
