@@ -13,4 +13,4 @@ Over the years, I've helped build:
 - [Microsoft Defender](https://en.wikipedia.org/wiki/Microsoft_Defender)
 - [Microsoft Edge Legacy](https://en.wikipedia.org/wiki/Microsoft_Edge#Edge_Legacy_(2014%E2%80%932019))
 
-I read a lot.  I pretend to work more than I do.  I live in Raleigh, NC.
+Also, I read a lot.  I live in Raleigh, NC.
